@@ -1,0 +1,48 @@
+form{
+    text-align: center;
+    background-color: rgb(192, 191, 191);
+    margin: auto;
+    padding: 20px;
+    max-width: 400px;
+    gap: 34px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(140, 140, 137);
+    min-height: 200px;
+
+
+}
+#num{
+    width:50%;
+    text-align: center;
+    font-size: 2rem;
+    border: 2px solid black;
+    margin:20px;
+    border-radius: 4px;
+
+}
+label{
+    font-size: 1.2em;
+    font-weight:bold;
+
+}
+
+button{
+    margin-top: 15px;
+    background-color: coral;
+    font-size: 1.5em;
+    border: none;
+    padding:10px 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(197, 130, 22);
+}
+#myResult{
+    font-size:1.5em;
+    font-weight:bold;
+}
+h1{
+    font-weight: bold;
+color: rgb(126, 126, 214);
+
+}

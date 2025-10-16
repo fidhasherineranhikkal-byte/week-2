@@ -1,0 +1,24 @@
+#countLabel{
+    display: block;
+    color: black;
+    font-size: 10em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    text-align: center;
+}
+#container *{
+    padding: 10px 20px;
+    border-radius: 3px;
+    background-color: rgb(234, 107, 174);
+    color: white;
+    transition: background-color .25s;
+    font-weight: bold;
+}
+ #container *:hover{
+    background-color: rgb(99, 2, 45);
+}
+#container *:active{
+    background-color: rgb(246, 70, 0);
+}
